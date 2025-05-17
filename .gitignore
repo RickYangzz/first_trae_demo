@@ -1,0 +1,32 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器和IDE文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 依赖目录
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# 日志文件
+*.log
+
+# 环境配置文件
+.env
+.env.local
+
+# 构建输出目录
+dist/
+build/
+out/
+
+# 包管理器文件
+package-lock.json
+yarn.lock
